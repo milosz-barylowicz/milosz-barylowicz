@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @milosz-barylowicz
+- 👋 Hi, I’m Miłosz Baryłowicz and I am Software Engineer in Motorola Solutions (more details about me experience: https://www.linkedin.com/in/miloszbarylowicz/)
 - 👀 I’m interested in C++, building system with CMake, task automationa and Rust
 - 🌱 I’m currently learning CMake and Github Actions
 - 💞️ I’m looking to collaborate on C++/CMake projects
-- 📫 How to reach me milosz.barylowicz@gmail.com
+- 📫 How to reach me e-mail: milosz.barylowicz@gmail.com and LinkedIn: https://www.linkedin.com/in/miloszbarylowicz/
+- ![image](https://user-images.githubusercontent.com/117541474/209401504-228d434e-736c-49d3-8484-5f1abf07871e.png) I'm trying to help and learn on stackoverflow also: https://stackoverflow.com/users/7152750/m-bary%c5%82owicz
 
 <!---
 milosz-barylowicz/milosz-barylowicz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
