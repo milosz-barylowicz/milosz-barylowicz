@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Miłosz Baryłowicz and I am Software Engineer at Motorola Solutions
+- 👋 Hi, My name is Miłosz Baryłowicz and I am Software Engineer at Motorola Solutions
 - 👀 I’m interested in C++, building system with CMake, task automationa and Rust
 - 🌱 I’m currently learning CMake and Github Actions
 - 💞️ I’m looking to collaborate on C++/CMake projects
