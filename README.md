@@ -2,7 +2,7 @@
 - 👀 I’m interested in building systems with CMake, task automations, C++ and Rust programming language
 - 🌱 I’m currently learning building projects using CMake and CI/CD automation with Github Actions
 - 💞️ I’m looking to collaborate on C++ or Rust projects
-- 📫 How to reach me e-mail: milosz.barylowicz@gmail.com and [LinkedIn](https://www.linkedin.com/in/miloszbarylowicz)
+- 📫 How to reach me e-mail: milosz.barylowicz@gmail.com and [LinkedIn](https://www.linkedin.com/in/milosz-barylowicz)
 - 📙 I'm trying to help and learn also on [StackOverflow](https://stackoverflow.com/users/7152750/m-bary%c5%82owicz)
 
 <!---
