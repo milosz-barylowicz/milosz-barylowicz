@@ -1,5 +1,5 @@
-- 👋 Hello, My name is Miłosz and I am Software Engineer at [Motorola Solutions](https://pracawmotoroli.pl/en) working on Video Analytics Library mostly used in:
-     • [Avigilon](https://www.avigilon.com)
+- 👋 Hello, My name is Miłosz and I am Software Engineer at [Motorola Solutions](https://pracawmotoroli.pl/en) working on Video Analytics Library mostly used in:\
+     • [Avigilon](https://www.avigilon.com)\
      • [Pelco](https://www.pelco.com)
 - 👀 I’m interested in building systems with CMake, CI/CD automations, C++ and Rust programming language
 - 🌱 I’m currently learning building projects using CMake and CI/CD automation with Github Actions
